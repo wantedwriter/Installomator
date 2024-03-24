@@ -198,6 +198,7 @@ hpeasystart
 hype
 hyper
 ibarcoder
+ibmnotifier
 icons
 idrive
 idrivethin
@@ -211,12 +212,14 @@ installomator
 installomator_theile
 intellijideace
 ipswupdater
+ipvisionconnect
 istatmenus
 iterm2
 itsycal
 jabradirect
 jamfconnect
 jamfconnectconfiguration
+jamfcpr
 jamfmigrator
 jamfpppcutility
 jamfreenroller
@@ -251,9 +254,11 @@ libreoffice
 linear
 logioptions
 logitechoptions
+logitechoptionsplus
 logseq
 loom
 lowprofile
+lucidlink
 lucifer
 lulu
 macadminspython
@@ -261,6 +266,7 @@ maccyapp
 macfuse
 macoslaps
 macports
+mactex
 malwarebytes
 marathon
 marathon2
@@ -282,6 +288,8 @@ microsoftexcel
 microsoftlicenseremovaltool
 microsoftoffice365
 microsoftofficebusinesspro
+microsoftofficefactoryreset
+microsoftofficeremoval
 microsoftonedrive
 microsoftonenote
 microsoftoutlook
@@ -295,8 +303,11 @@ microsoftword
 mightymike
 mindmanager
 miro
+mist
+mist-cli
 mmhmm
 mobikinassistantforandroid
+mobiletolocal
 mochakeyboard
 mochatelnet
 mochatn3270
@@ -319,6 +330,8 @@ nudge
 nudgesuite
 nvivo
 obs
+observeitautoupdater
+observeitcloudagent-lts
 obsidian
 odrive
 omnidisksweeper
@@ -331,6 +344,7 @@ omniplan4
 omnipresence
 onionshare
 onlyofficedesktop
+onscreencontrol
 openvpnconnect
 openvpnconnectv3
 opera
@@ -356,6 +370,7 @@ prism9
 pritunl
 privileges
 proctortrack
+projectplace
 promiseutility
 promiseutilityr
 propresenter7
@@ -429,6 +444,8 @@ sqlprostudio
 steelseriesengine
 strongdm
 strongsync
+subethaedit
+sublimemerge
 sublimetext
 superhuman
 supportapp
@@ -476,6 +493,7 @@ unnaturalscrollwheels
 utm
 vagrant
 vanilla
+venturablocker
 veracrypt
 vimac
 virtualbox
@@ -485,6 +503,7 @@ vivaldi
 vlc
 vmwarehorizonclient
 vscodium
+vysor
 wacomdrivers
 wallyezflash
 webex
