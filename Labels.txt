@@ -459,6 +459,7 @@ monitorcontrol
 montereyblocker
 morisawadesktopmanager
 mowgliiitsycal
+multipass
 munki
 musescore
 muzzle
